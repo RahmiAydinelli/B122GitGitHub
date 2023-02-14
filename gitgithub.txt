@@ -3,6 +3,4 @@
 <<<<<<< Updated upstream
 2. gün rahmi branchi yeni ekleddim
 =======
-2. gün rahmi branchi yeni ekleddim
-2. gün sultan slash branchi yeni ekleddim eksik olanı tamamlayınca 
->>>>>>> Stashed changes
+
